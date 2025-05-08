@@ -1,2 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World 2!");
+using Newtonsoft.Json;
+
+Console.WriteLine("Hello, World 3!");
+var s = JsonConvert.SerializeObject(new { Name = "John", Age = 30 });
+Console.WriteLine(s);
