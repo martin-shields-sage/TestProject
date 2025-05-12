@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "dependencies": {
+    "net6.0": {
+      "SixLabors.ImageSharp": {
+        "type": "Direct",
+        "requested": "3.0.*",
+        "resolved": "3.0.*"
+      }
+    }
+  }
+}
