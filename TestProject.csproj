@@ -8,9 +8,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Newtonsoft.Json" Version="[12.*, )" />
-    <PackageReference Include="SixLabors.ImageSharp" Version="[3.0.*, )" />
-    <PackageReference Include="SPID.AspNetCore.Authentication" Version="[3.3.*, )" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.*" />
+    <PackageReference Include="SixLabors.ImageSharp" Version="3.0.*" />
+    <PackageReference Include="SPID.AspNetCore.Authentication" Version="3.3.*" />
   </ItemGroup>
 
 </Project>
